@@ -1,9 +1,7 @@
-numpy version== 2.0.2
-pandas version== 2.2.3
-
-matplotlib version== 3.9.2
-wordcloud==1.9.4
-seaborn==0.13.2
-
+numpy==2.0.2
+pandas==2.2.3
+matplotlib==3.9.2
 nltk==3.9.1
+seaborn==0.13.2
+wordcloud==1.9.4
 streamlit==1.40.1

@@ -1,7 +1,7 @@
-numpy version: 2.0.2
-pandas version: 2.2.3
+numpy version== 2.0.2
+pandas version== 2.2.3
 
-matplotlib version: 3.9.2
+matplotlib version== 3.9.2
 wordcloud==1.9.4
 seaborn==0.13.2
 
